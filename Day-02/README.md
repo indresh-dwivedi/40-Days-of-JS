@@ -1,9 +1,9 @@
-Day 2 of 40 Days of Javascript
+Day 2 - 40 Days of Javascript
 
-Today We Learn About 
+Today We Learn About the Variables & Data Types in Javascript.
 
-.What is Variable?
-.How to visialize variables?
-.How Variables get stored?
-.JavaScript Data Types
-.How JavaScript sees code?
+1. What is Variable?
+2. How to visialize variables?
+3. How Variables get stored?
+4. JavaScript Data Types
+5. How JavaScript sees code?
