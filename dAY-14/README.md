@@ -2,6 +2,8 @@ Day 14 - 40 Days of JavaScript.
 
 🎯 Goal of This Lesson.
 
+Learn about the Error handling in JavaScript
+
 1. Why Error Handling
 2. What Will We Learn?
 3. Errors in JavaScript

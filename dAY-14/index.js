@@ -1,4 +1,4 @@
-console.log("Day 14: Error Handling");
+console.log("Day 14: Error Handling in JS");
 
 // parsing error -
 // runtime error -
