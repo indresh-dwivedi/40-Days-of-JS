@@ -5,70 +5,68 @@ console.log("Day 03");
 // Expression x = 2 / 3 + 4
 
 // Arithmetic Operators
-console.log("**** Arithmetic Operators ****")
+console.log("**** Arithmetic Operators ****");
 let a = 12;
 let b = 5;
 
-let f_name = "indresh"
-let l_name = "dwivedi"
+let f_name = "indresh";
+let l_name = "dwivedi";
 
-console.log(f_name + l_name) // don't do this!
+console.log(f_name + l_name); // don't do this!
 
 console.log(a + b);
 console.log(a - b);
 console.log(b - a);
 console.log(a * b);
 console.log(a / b);
-console.log(a ** b)
-console.log(a % b)
+console.log(a ** b);
+console.log(a % b);
 
 let count = 5;
-console.log(count--) // count = count - 1
-console.log(count)
+console.log(count--); // count = count - 1
+console.log(count);
 
-console.log(--count) // count = count - 1
+console.log(--count); // count = count - 1
 
 // Assignment Operators
-console.log("**** Assignment Operators ****")
+console.log("**** Assignment Operators ****");
 
 let x = 10;
- x += 5; // x = x + 5 (15)
- x -=3; // x = x - 3 (12)
- x *= 2; // x = x * 2 (24)
- x /= 4; // x = x / 4 (6)
-
+x += 5; // x = x + 5 (15)
+x -= 3; // x = x - 3 (12)
+x *= 2; // x = x * 2 (24)
+x /= 4; // x = x / 4 (6)
 
 // Comparison Operators
-console.log("**** Comparison Operators ****")
-console.log(0 == false)
-console.log(3 == '3')
-console.log(3 != '3')
+console.log("**** Comparison Operators ****");
+console.log(0 == false);
+console.log(3 == "3");
+console.log(3 != "3");
 
-console.log(3 === '3')
+console.log(3 === "3");
 
-console.log(null === null) // true
-console.log(undefined === undefined) // true
+console.log(null === null); // true
+console.log(undefined === undefined); // true
 
 // NaN = Not a Number
 
-let obj1 = {'name': 'tapaScript'} // XX0011
-let obj2 = {'name': 'tapaScript'} // YY022
+let obj1 = { name: "tapaScript" }; // XX0011
+let obj2 = { name: "tapaScript" }; // YY022
 
-console.log(obj1 === obj2) // false
-console.log(obj1 !== obj2) // true
+console.log(obj1 === obj2); // false
+console.log(obj1 !== obj2); // true
 
-4 > 3
-2 > 1
-1 > 7
-2 >= 2
+4 > 3;
+2 > 1;
+1 > 7;
+2 >= 2;
 
-4 < 3
-2 < 7
-3 <= 9
-
+4 < 3;
+2 < 7;
+3 <= 9;
 
 // Logical operators
-console.log("**** Logical operators ****")
+console.log("**** Logical operators ****");
 // && || ?? !
 // op1 && op2
 console.log(false && false); // false
@@ -78,7 +76,7 @@ console.log(false && true); // false
 
 console.log("Cow" && "Horse"); // "Horse"
 
-4 > 5 && 4 === 6
+4 > 5 && 4 === 6;
 
 console.log(false || false); // false
 console.log(true || false); // true
@@ -87,25 +85,23 @@ console.log(false || true); // true
 
 console.log("Cow" || "Horse"); // "Cow"
 
-console.log(!false)
+console.log(!false);
 
 let a1 = null ?? 1; // 1
-let a2 = undefined ?? 3 // 3
-const a3 = false ?? "tapaScript" // false
-const a4 = 0 ?? "monu" // 0
-
+let a2 = undefined ?? 3; // 3
+const a3 = false ?? "tapaScript"; // false
+const a4 = 0 ?? "monu"; // 0
 
 // Conditional (ternary) operator
-console.log("**** Conditional (ternary) operator ****")
+console.log("**** Conditional (ternary) operator ****");
 
 // condition ? val1 : val2
 
 let age = 23;
 age >= 60 ? "Senior Citizen" : "Non Senior Citizen";
 
-
 // Bitwise operators
-console.log("**** Bitwise operators ****")
+console.log("**** Bitwise operators ****");
 
 // 10 in decimal
 // 10 in 32 bits representation of 0, 1
@@ -158,8 +154,7 @@ p * (r + q) * r
 */
 
 // typeof
-console.log("**** typeof ****")
-
+console.log("**** typeof ****");
 
 typeof "indresh"; // "string"
 typeof false; // "boolean"
@@ -167,13 +162,12 @@ typeof false; // "boolean"
 let size = 100;
 typeof size; // "number"
 
-const numbers = [1,2,3,4]
+const numbers = [1, 2, 3, 4];
 typeof numbers; // "object"
 
 typeof null; // "object"
 
-
 // instanceof
-console.log("**** instanceof ****")
+console.log("**** instanceof ****");
 
 // object instanceof objectType
