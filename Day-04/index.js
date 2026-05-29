@@ -142,3 +142,4 @@ switch (city) {
   default:
     console.log("It is in USA");
 }
+
