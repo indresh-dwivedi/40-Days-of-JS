@@ -1,4 +1,4 @@
-console.log("Day 06");
+console.log("Day 06 - JavaScript Function's");
 
 // Define or Declare a Function
 function printThis() {
@@ -145,5 +145,3 @@ function fetchWater(count) {
 }
 
 fetchWater(5);
-
-
