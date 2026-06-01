@@ -56,6 +56,7 @@ function startSecretNumberGame() {
 
   const playAgainPrompt = prompt("Do you want to play again? (yes/no)");
   console.log(playAgainPrompt);
+  
   const playAgain = playAgainPrompt
     ? playAgainPrompt.toLocaleLowerCase()
     : "no";
