@@ -1,11 +1,11 @@
-Day 08 - 40 Days of JavaScript
+Day 08 - 40 Days of JavaScript - JavaScript Execution Context
 
 🎯 Goal of This Lesson
 
-✅ Why Execution Context
-✅ Lexical Environment
-✅ Execution Context
-✅ Global Execution Context
-✅ Function Execution Context
-✅ GEC and FEC With Complex Examples
-✅ Memory Management With Call Stack and Heap
+1. Why Execution Context
+2. Lexical Environment
+3. Execution Context
+4. Global Execution Context
+5. Function Execution Context
+6. GEC and FEC With Complex Examples
+7. Memory Management With Call Stack and Heap
