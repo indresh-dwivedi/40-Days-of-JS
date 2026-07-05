@@ -2,11 +2,11 @@ Day 11 - 40 Days of JavaScript
 
 🎯 Goal of This Lesson
 
-✅ What is Closure in JavaScript?
-✅ Understanding Closure With Lexical Scope
-✅ Closure Memorizing Outer Values
-✅ Closure Real World Use Case
-✅ Function Factory With Closure
-✅ Closure & Memory Leak
-✅ Advantages of Closure
-✅ Closure & Event Handlers
+1. What is Closure in JavaScript?
+2. Understanding Closure With Lexical Scope
+3. Closure Memorizing Outer Values
+4. Closure Real World Use Case
+5. Function Factory With Closure
+6. Closure & Memory Leak
+7. Advantages of Closure
+8. Closure & Event Handlers
