@@ -1,4 +1,4 @@
-🚀 40 Days of JavaScript
+<h1 align="center">🚀 40 Days of JavaScript</h1>
 
 <p align="center"> <img src="https://img.shields.io/badge/JavaScript-40%20Days-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Days-40-success?style=for-the-badge" alt="40 Days"> <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Completed"> </p>
 
