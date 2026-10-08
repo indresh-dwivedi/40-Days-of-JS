@@ -1,4 +1,4 @@
-🚀 40 Days of JavaScript
+##🚀 40 Days of JavaScript
 
 A 40-day JavaScript learning journey focused on building a strong foundation in JavaScript — from the basics to advanced concepts, asynchronous JavaScript, DOM manipulation, OOP, performance, memory management, and practical projects.
 
