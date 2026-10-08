@@ -4,7 +4,7 @@
 
 <p align="center"> <b>A 40-day journey to strengthen my JavaScript fundamentals, understand advanced concepts, and build practical projects.</b> </p>
 
-📖 About This Repository
+#📖 About This Repository
 
 This repository contains my learning journey through 40 Days of JavaScript by Tapas Adhikary (Tapascript).
 
