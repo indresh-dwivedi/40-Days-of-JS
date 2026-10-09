@@ -25,3 +25,38 @@ Over these 40 days, I covered JavaScript from fundamentals to advanced concepts,
 - Improve debugging and problem-solving skills
 - Build practical JavaScript projects
 - Prepare JavaScript concepts from an interview perspective
+
+📚 Learning Roadmap
+JavaScript Fundamentals
+        ↓
+Variables & Data Types
+        ↓
+Operators & Control Flow
+        ↓
+Functions
+        ↓
+Execution Context & Hoisting
+        ↓
+Scope & Closures
+        ↓
+Objects & Arrays
+        ↓
+DOM & Events
+        ↓
+Asynchronous JavaScript
+        ↓
+Promises & async/await
+        ↓
+Fetch API & Event Loop
+        ↓
+OOP & Classes
+        ↓
+Prototypes & Modules
+        ↓
+Map / Set / WeakMap / WeakSet
+        ↓
+Performance & Memory Management
+        ↓
+Interview Preparation
+        ↓
+🚀 Stronger JavaScript Foundation
