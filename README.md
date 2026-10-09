@@ -14,3 +14,14 @@ The goal of this challenge was not just to learn JavaScript syntax, but to devel
 Over these 40 days, I covered JavaScript from fundamentals to advanced concepts, including DOM manipulation, asynchronous JavaScript, the Event Loop, OOP, prototypes, modules, performance optimization, and memory management.
 
 40 Days → Consistent Practice → Stronger JavaScript Foundation 🚀
+***
+🎯 Goals
+Build a strong foundation in JavaScript
+Understand JavaScript core concepts deeply
+Learn how JavaScript works behind the scenes
+Practice DOM manipulation and browser APIs
+Understand asynchronous JavaScript
+Learn JavaScript OOP and prototypes
+Improve debugging and problem-solving skills
+Build practical JavaScript projects
+Prepare JavaScript concepts from an interview perspective
