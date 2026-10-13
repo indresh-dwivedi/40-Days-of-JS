@@ -77,3 +77,50 @@ Interview Preparation
 ```
 
 ---
+
+## 🗓️ 40 Days of JavaScript
+
+| Day | Topic | Category |
+|:---:|---|---|
+| 01 | Introduction to JavaScript | 📚 Fundamentals |
+| 02 | Data Types & Variables | 📚 Fundamentals |
+| 03 | Operators & Expressions | 📚 Fundamentals |
+| 04 | Control Flow | 📚 Fundamentals |
+| 05 | Loops & Iteration | 📚 Fundamentals |
+| 06 | JavaScript Functions | 📚 Fundamentals |
+| 07 | Rock Paper Scissors Project | 🛠️ Project |
+| 08 | JavaScript Execution Context | 🧠 Core JS |
+| 09 | Hoisting in JavaScript | 🧠 Core JS |
+| 10 | Scope & Scope Chain | 🧠 Core JS |
+| 11 | JavaScript Closures | 🧠 Core JS |
+| 12 | JavaScript Objects | 🧠 Core JS |
+| 13 | JavaScript `this` Keyword | 🧠 Core JS |
+| 14 | Error Handling in JavaScript | 🧠 Core JS |
+| 15 | JavaScript Arrays | 🧠 Core JS |
+| 16 | JavaScript Debugging | 🐛 Debugging |
+| 17 | Introduction to JavaScript DOM | 🌐 DOM |
+| 18 | JavaScript DOM Manipulations | 🌐 DOM |
+| 19 | JavaScript Events | 🌐 DOM |
+| 20 | Advanced DOM Tips & Tricks | 🌐 DOM |
+| 21 | Quiz Game Using DOM | 🛠️ Project |
+| 22 | Async JavaScript — Callbacks | ⚡ Async JS |
+| 23 | Promises in JavaScript | ⚡ Async JS |
+| 24 | Async JavaScript — `async/await` | ⚡ Async JS |
+| 25 | Async JavaScript — Fetch API | ⚡ Async JS |
+| 26 | Common JavaScript Mistakes | 🧠 Practice |
+| 27 | JavaScript Event Loop | ⚙️ Internals |
+| 28 | Country Explorer Project | 🛠️ Project |
+| 29 | OOP Concepts | 🧩 OOP |
+| 30 | Classes & OOP in JavaScript | 🧩 OOP |
+| 31 | Prototype & Prototype Chain | 🧩 OOP |
+| 32 | JavaScript Modules | 📦 Modules |
+| 33 | Map, Set, WeakMap & WeakSet | 🗃️ Collections |
+| 34 | Library Management System | 🛠️ Project |
+| 35 | Fix the Broken Code Challenge | 🐛 Challenge |
+| 36 | JavaScript Performance Optimization | ⚡ Performance |
+| 37 | JavaScript Web APIs | 🌐 Web APIs |
+| 38 | JavaScript Memory Management & Garbage Collection | 🧠 Internals |
+| 39 | JavaScript Interview Preparation | 💼 Interview |
+| 40 | Expense Splitter Project | 🛠️ Project |
+
+---
