@@ -124,3 +124,37 @@ Interview Preparation
 | 40 | Expense Splitter Project | 🛠️ Project |
 
 ---
+
+## 🛠️ Projects
+
+### 🎮 1. Rock Paper Scissors
+
+An interactive game built while learning JavaScript fundamentals and functions.
+
+**Concepts:** `Functions` · `Conditionals` · `DOM` · `Events`
+
+### 🧠 2. Quiz Game
+
+A browser-based quiz game focused on DOM manipulation and event handling.
+
+**Concepts:** `DOM` · `Events` · `Arrays` · `Functions`
+
+### 🌎 3. Country Explorer
+
+A project focused on working with external data and asynchronous JavaScript.
+
+**Concepts:** `Fetch API` · `Promises` · `async/await` · `DOM`
+
+### 📚 4. Library Management System
+
+A JavaScript project designed to apply Object-Oriented Programming concepts.
+
+**Concepts:** `OOP` · `Classes` · `Objects` · `Methods`
+
+### 💰 5. Expense Splitter
+
+A practical project built as part of the final stage of the 40-day journey.
+
+**Concepts:** `JavaScript` · `DOM` · `Functions` · `Data Handling`
+
+---
