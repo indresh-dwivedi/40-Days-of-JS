@@ -158,3 +158,61 @@ A practical project built as part of the final stage of the 40-day journey.
 **Concepts:** `JavaScript` · `DOM` · `Functions` · `Data Handling`
 
 ---
+
+## 🧠 Key Concepts Covered
+
+### 📌 JavaScript Fundamentals
+
+- Variables and Data Types
+- Operators and Expressions
+- Control Flow and Loops
+- Functions
+- Error Handling
+- Debugging
+
+### 📌 Core JavaScript
+
+- Execution Context
+- Hoisting
+- Scope and Scope Chain
+- Closures
+- Objects and Arrays
+- `this` Keyword
+
+### 📌 DOM & Browser
+
+- DOM Manipulation
+- JavaScript Events
+- Event Handling
+- Advanced DOM Techniques
+- Web APIs
+
+### 📌 Asynchronous JavaScript
+
+- Callbacks
+- Promises
+- `async/await`
+- Fetch API
+- Event Loop
+
+### 📌 Object-Oriented JavaScript
+
+- OOP Concepts
+- Classes and Objects
+- Prototypes
+- Prototype Chain
+
+### 📌 Modern JavaScript
+
+- JavaScript Modules
+- Map and Set
+- WeakMap and WeakSet
+
+### 📌 JavaScript Internals
+
+- Event Loop
+- Performance Optimization
+- Memory Management
+- Garbage Collection
+
+---
