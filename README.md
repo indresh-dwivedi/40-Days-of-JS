@@ -265,3 +265,6 @@ A practical project built as part of the final stage of the 40-day journey.
 │
 └── README.md
 ```
+Each folder contains the code, examples, practice exercises, challenges, or project associated with that day's topic.
+
+---
