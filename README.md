@@ -280,3 +280,13 @@ Each folder contains the code, examples, practice exercises, challenges, or proj
 </p>
 
 ---
+
+## 📈 Learning Progress
+
+**40 / 40 Days Completed 🎉**
+
+```text
+Progress: 100%
+
+[########################################] 40/40
+```
