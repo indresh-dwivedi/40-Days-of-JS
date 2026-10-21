@@ -313,3 +313,22 @@ Progress: 100%
 - [x] Practical Projects
 
 ---
+
+## 💡 Key Takeaways
+
+This journey helped me move beyond simply writing JavaScript code and understand **why JavaScript behaves the way it does**.
+
+Some of the most important concepts I strengthened were:
+
+- Understanding JavaScript execution and scope.
+- Working with closures and functions.
+- Understanding asynchronous JavaScript.
+- Learning how the Event Loop works.
+- Manipulating the DOM and handling events.
+- Applying Object-Oriented Programming concepts.
+- Understanding prototypes and inheritance.
+- Writing cleaner and more efficient JavaScript.
+- Debugging and fixing broken code.
+- Applying concepts through practical projects.
+
+---
