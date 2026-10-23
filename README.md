@@ -344,3 +344,14 @@ It was about developing the habit of learning consistently, writing code regular
 > **Learn → Practice → Build → Debug → Repeat.**
 
 ---
+
+## 👨‍💻 Author
+
+### Indresh Dwivedi
+
+**Aspiring MERN Stack / Full-Stack Developer 🚀**
+
+- 💻 GitHub: [@indresh-dwivedi](https://github.com/indresh-dwivedi)
+- 🔗 LinkedIn: [Indresh Dwivedi](https://linkedin.com/in/indresh-dwivedi)
+
+---
