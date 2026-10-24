@@ -355,3 +355,11 @@ It was about developing the habit of learning consistently, writing code regular
 - 🔗 LinkedIn: [Indresh Dwivedi](https://linkedin.com/in/indresh-dwivedi)
 
 ---
+
+<p align="center">
+  <b>⭐ If you find this repository useful, consider giving it a star!</b>
+</p>
+
+<p align="center">
+  <i>40 Days Completed. The Journey Continues... 🚀</i>
+</p>
